@@ -1,3 +1,3 @@
 Hi!
 
-This is one of my siple site projects, fell free to look at ;)
+ Here is a simple website announcing new product for travelers. Live demo here: https://denta49.github.io/travelerSite/
